@@ -1,0 +1,48 @@
+<div class="container">
+
+  <h1>Google Maps</h1>
+
+  <div class="form-group">
+    <label>Enter Username/Location :</label>
+    <input type="text" class="form-control" (keyup)="searchTerm$.next($event.target.value)" placeholder="Search here..." #search>
+  </div>
+
+  <ul *ngIf="filteredUsers.length > 0">
+    <li *ngFor="let user of filteredUsers">
+      Username : {{user.username }} ,
+      Notes: {{ user.notes }}
+    </li>
+  </ul>
+
+  <agm-map (mapClick)="mapClick(infoWindow)" [latitude]="latitude" [longitude]="longitude" [zoom]="zoom">
+    <agm-marker [latitude]="latitude" [longitude]="longitude" [markerDraggable]="true"
+                (dragEnd)="markerDragEnd($event)" (mouseOver)="onMouseOver(infoWindow)" (mouseOut)="onMouseOut(infoWindow)">
+      <agm-info-window #infoWindow [disableAutoPan]="false" [isOpen]="show" [maxWidth]="500">
+        <div><input type="text" [value]="searchvalue" #info (keyup.enter)="sendNotes($event.target.value,infoWindow)" id="nameinput" size="31" maxlength="31" tabindex="1" /></div>
+      </agm-info-window>
+    </agm-marker>
+  </agm-map>
+
+  <h5>Address: {{address}}</h5>
+
+  <div *ngIf="usersinfo.length > 0">
+    <h4>List of User Locations</h4>
+    <ul *ngIf="usersinfo.length > 1; else content">
+      <li *ngFor="let info of usersinfo">
+        <h6>UserName: {{info.username}}</h6>
+        <div>Location: {{info.address}}</div>
+        <div>Notes: {{info.notes}}</div>
+      </li>
+    </ul>
+
+    <ng-template #content>
+      <h5>UserName: {{usersinfo?.username}}</h5>
+      <div>Location: {{usersinfo?.address}}</div>
+      <div>Notes: {{usersinfo?.notes}}</div>
+    </ng-template>
+  </div>
+</div>
+
+
+
+

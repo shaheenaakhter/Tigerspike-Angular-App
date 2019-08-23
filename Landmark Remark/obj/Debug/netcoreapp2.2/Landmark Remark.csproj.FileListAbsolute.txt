@@ -1,0 +1,48 @@
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.csproj.CoreCompileInputs.cache
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.RazorAssemblyInfo.cache
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.RazorAssemblyInfo.cs
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.AssemblyInfoInputs.cache
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.AssemblyInfo.cs
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.RazorCoreGenerate.cache
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.RazorTargetAssemblyInfo.cache
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.RazorTargetAssemblyInfo.cs
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.csproj.CopyComplete
+C:\Users\shaheena\source\repos\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.csprojAssemblyReference.cache
+C:\Tigerspike\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Tigerspike\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Tigerspike\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Tigerspike\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Tigerspike\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Tigerspike\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Tigerspike\Landmark Remark\Landmark Remark\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.csprojAssemblyReference.cache
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.csproj.CoreCompileInputs.cache
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.RazorAssemblyInfo.cache
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.RazorAssemblyInfo.cs
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.AssemblyInfoInputs.cache
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.AssemblyInfo.cs
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.RazorCoreGenerate.cache
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.RazorTargetAssemblyInfo.cache
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.RazorTargetAssemblyInfo.cs
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Tigerspike\Landmark Remark\Landmark Remark\obj\Debug\netcoreapp2.2\Landmark Remark.csproj.CopyComplete
